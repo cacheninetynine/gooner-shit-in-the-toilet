@@ -1,1 +1,1 @@
-<a href="https://htmlpreview.github.io/?https://github.com/SprSn64/Shitty-RPG-Game/blob/main/index.html">See the game</a>
+this game very fast
